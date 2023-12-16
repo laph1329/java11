@@ -12,5 +12,6 @@ public class Main {
         Random random= new Random();
         System.out.println(random.nextInt(10));
         Animal animal=new Animal();
+        animal.mensaje();
     }
 }
