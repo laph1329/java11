@@ -32,5 +32,10 @@ public class DeReferencia {
         greeting=new String("saludo");
     }
     public static void main(String[] args) {
+        DeReferencia deReferencia=new DeReferencia();
+        System.out.println(deReferencia.a);
+        System.out.println(deReferencia.b);
+        System.out.println(deReferencia.c);
+
     }
 }

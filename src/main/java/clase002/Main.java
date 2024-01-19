@@ -5,7 +5,7 @@ package clase002;
 
 import java.util.Random;
 import java.util.*;     // es redundante
-import clase002.Animal; // es redundante
+import clase002.Animal; // es redundante porque estan en el mismo paquete
 
 public class Main {
     public static void main(String... args){

@@ -7,7 +7,7 @@ public class Literales {
         long dog = 154256751999999l;
 
         // java permite 4 sistemas
-        // decimal, octal , hexadecimal y binario
+        // decimal, octal, hexadecimal y binario
 
         //decimal
         long val1 = 10;

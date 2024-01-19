@@ -6,11 +6,19 @@ public class Persona {
     }
 
 }
-
+//ojo un archivo .java puede tener varias clases e interfaces, pero solo una clase publica
 class  Persona2{
 
 }
 
+class Persona3{
+
+}
+
 interface PersonaMetodos{
+
+}
+
+interface Persona2Metodos{
 
 }
