@@ -1,7 +1,7 @@
 package clase007.promocionNumeros;
 
 import java.lang.reflect.Type;
-
+// VIDEO 6 Y VIDEO 10
 public class Promocion {
     public static void main(String[] args) {
         int x = 1;

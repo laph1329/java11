@@ -87,5 +87,13 @@ crea microprofile (especificaciones para Micro servicios).
      3. Archivos de recursos: Estos archivos contienen recursos, como imágenes, sonidos y archivos de texto, que se 
     utilizan en la aplicación o herramienta.
 
-  - 
-
+## CLASE 14
+### HEAP
+ - En Java, el heap es un área de memoria dinámica donde se almacenan los objetos creados durante la ejecución del programa. Se puede considerar como un espacio de almacenamiento flexible que se asigna y libera automáticamente según las necesidades del programa.
+ - VisualVM herramienta para visualisar estadisticas de la JVM
+### String Pool
+- es un área de memoria donde se almacenan todas las cadenas literales utilizadas en un programa. Es una forma de optimizar el uso de la memoria y mejorar el rendimiento.
+### Arrays
+- Es una area de memoria en el heap, con un espacio para un determinado numero de elementos, String es implementado por 
+un Array, el String Builder tambien es implementado por un Array.
+- Es un objeto que puede guardar datos de distintos tipos
